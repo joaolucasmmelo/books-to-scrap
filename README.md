@@ -7,10 +7,5 @@ Este projeto foi criado como um exercício prático para portfólio, automatizan
 - Python
 - BeautifulSoup / Requests (ajuste conforme a biblioteca utilizada)
 
-**🚀 Como Executar:**
-1. Clone este repositório.
-2. Instale as dependências necessárias: `pip install -r requirements.txt`
-3. Execute o script principal no terminal: `python scraper.py`
-
 **📈 Aprendizados:**
 Este código consolida conceitos fundamentais de requisições web, análise estrutural de páginas HTML e manipulação de arquivos para o armazenamento de dados (como exportação para JSON ou CSV), evidenciando de forma prática o aprimoramento contínuo no desenvolvimento de soluções backend.
